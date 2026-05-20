@@ -96,6 +96,8 @@ agent_worker = FunctionCallingAgentWorker.from_tools(
 agent = AgentRunner(agent_worker)
 ```
 ```python
+print("Name: AMIRTHA VARSHINI M")
+print("Register Number: 212224230017")
 response = agent.query(
     "What is MedAgentGym?"
     "What is auto-bidding in online advertising?"
